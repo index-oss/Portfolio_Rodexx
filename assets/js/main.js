@@ -49,7 +49,7 @@ window.addEventListener('scroll', blurHeader);
 
 /*=============== EMAIL JS ===============*/
 // Initialize EmailJS with your public key
-emailjs.init('tca-h4EoAwFUwER5-'); // Replace with your actual public key from EmailJS
+emailjs.init('Ag_NHXbM7jvUXK2G6'); // Replace with your actual public key from EmailJS
 
 document.addEventListener('DOMContentLoaded', () => {
     const contactForm = document.getElementById('contact-form'),
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
         contactMessage.textContent = 'Sending message...';
 
         // Send email via EmailJS
-        emailjs.sendForm('service_yx6gli9', 'template_tt5zt84', contactForm)
+        emailjs.sendForm('service_6zd4xfv', 'template_heikohd', contactForm)
             .then(() => {
                 // Show success message
                 contactMessage.textContent = 'Message sent successfully ✅';
