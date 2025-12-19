@@ -411,7 +411,7 @@ img {
 .info__title{
   position: relative;
   font-size: var(--small-font-size);
-  color: var(-text-color);
+  color: var(--text-color);
   margin-bottom: 3rem;
   margin-top: 10px;
   align-items: center;
@@ -799,7 +799,7 @@ img {
   }
   
   .info__container{
-    grid-template-columns: inital;
+    grid-template-columns: initial;
   }
   
   .about{
@@ -882,7 +882,7 @@ img {
   .work__link i{
     font-size: 2rem;
   }
-  .info__conatiner{
+  .info__container{
     row-gap: 4rem;
   }
   .info__title{
@@ -891,7 +891,7 @@ img {
   }
   .about{
     grid-template-columns: 320px 420px;
-    columns-gap: 11.5rem;
+    column-gap: 11.5rem;
   }
   .about__img{
     width: 320px;
@@ -956,3 +956,4 @@ img {
   }
   
   }
+
