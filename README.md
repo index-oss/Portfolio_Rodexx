@@ -7,7 +7,7 @@ A high-performance, dark-themed personal portfolio designed for maximum impact. 
 ---
 
 ## 📸 Preview
-![Portfolio Screenshot](assets/img/preview.jpg) *(Add your screenshot here)*
+![Portfolio Screenshot](assets/img/preview.jpg)
 
 ---
 
