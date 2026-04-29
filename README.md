@@ -1,8 +1,8 @@
-# 🌐 Codexx: Modern Responsive Portfolio
+6# 🌐 Codexx: Modern Responsive Portfolio
 
 A high-performance, dark-themed personal portfolio designed for maximum impact. Built with a focus on **Fluid UI/UX**, **Smooth Animations**, and **Mobile-First Responsiveness**.
 
->  **Live Demo:** [[Your Website URL Here](https://portfolio-rodexx.vercel.app/)]
+>  **Live Demo:** [(https://portfolio-rodexx.vercel.app/)]
 
 ---
 
