@@ -1,4 +1,4 @@
-6# 🌐 Codexx: Modern Responsive Portfolio
+## 🌐 Codexx: Modern Responsive Portfolio
 
 A high-performance, dark-themed personal portfolio designed for maximum impact. Built with a focus on **Fluid UI/UX**, **Smooth Animations**, and **Mobile-First Responsiveness**.
 
